@@ -4,7 +4,7 @@ def base_hash
 end
 
 def monopoly_with_second_tier
-  hash_1 = {railroads: {}}
+  hash_1 = {railroads: {pieces:}}
 
 end
 

@@ -1,12 +1,12 @@
 def base_hash
-  hash_1 = {
+  ex_hash = {
     :railroads => {}
   }
 
 end
 
 def monopoly_with_second_tier
-  hash_1 = {
+  ex_hash = {
     :railroads => {
       :pieces => 4, 
       :rent_in_dollars => {}, 

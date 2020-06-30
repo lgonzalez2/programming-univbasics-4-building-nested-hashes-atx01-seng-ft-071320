@@ -1,5 +1,7 @@
 def base_hash
-  hash_1 = {railroads: {}}
+  hash_1 = {
+    :railroads => {}
+  }
 
 end
 
@@ -11,7 +13,6 @@ def monopoly_with_second_tier
       :names => {}
       
     }
-    
   }
 
 end
